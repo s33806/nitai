@@ -9,10 +9,11 @@ QQ1809185784
 后期的话可能会更新pc端和移动端一起的css就分开来，有需要的话也可以把后台写了这样改起来也不会这么麻烦了。
 
 展示图：
-![输入图片说明](.gitee/1.jpg)
-![输入图片说明](.gitee/2.jpg)
-![输入图片说明](.gitee/3.jpg)
-![输入图片说明](.gitee/4.jpg)
+
+![Uploading 1.jpg![2](https://user-images.githubusercontent.com/65979885/159148344-dee98345-3f49-4b4a-8c52-a360f21d2c88.jpg)
+![3](https://user-images.githubusercontent.com/65979885/159148346-70af7acc-e3f2-4376-9099-6d7b2cfac78f.jpg)
+![4](https://user-images.githubusercontent.com/65979885/159148348-bf2e5b59-ec5b-454b-8ce3-753e7ebe5bd4.jpg)
+…]()
 
 注意事项： **本源码不支持伪静态** 
 
